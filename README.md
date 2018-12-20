@@ -1,2 +1,2 @@
 # js-clock
- Clock made with Vanilla JS + CSS
+A basic functional clock with JS and CSS.
