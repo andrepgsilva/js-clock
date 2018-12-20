@@ -1,1 +1,2 @@
-Clock made with Vanilla JS + CSS
+# js-clock
+ Clock made with Vanilla JS + CSS
